@@ -1,5 +1,5 @@
 # OnlineAttendance
-OnlineAttendance is an application which is used to mark attendance for students online 
+OnlineAttendance is an android application which is used to mark attendance for students online 
 
 The application is used to mark attendance  within specific timings for each session of the day.The Location(longitude and latitude) is
 stored in the application while marking the attendance there by handling invalid attendance requests(out of range).The application also
