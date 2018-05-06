@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OnlineAttendance</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="checkin">check in</string>
+    <string name="check">check</string>
+    <string name="profile">profile</string>
+    <string name="info1">Remaining time</string>
+    <string name="session1">Session 1</string>
+    <string name="session2">Session 2</string>
+    <string name="session3">Session 3</string>
+    <string name="location1">Location 1</string>
+    <string name="location2">Location 2</string>
+    <string name="location3">Location 3</string>
+    <string name="leaves">Leaves - </string>
+</resources>
